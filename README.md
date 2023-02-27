@@ -19,5 +19,5 @@ This is a website that manages your tasks.
 | <img src="images/home.png" alt="Home-Page"> | <img src="images/update.png" alt="Update-Page"> |
 
 | My-SQL Database |
-| --------------- |
-| <img src="images/backend.png" alt="Server-Page"> |
+| --------------- | 
+| <img src="images/backend.png" alt="Server-Page"> | 
